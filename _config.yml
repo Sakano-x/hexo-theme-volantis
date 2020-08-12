@@ -159,23 +159,26 @@ navbar:
     - name: 关于
       icon: fad fa-info-circle
       url: about/
-    - name: 更多
-      icon: fad fa-comment-dots
-      rows:
-        - name: 友链
-          icon: fal fa-link
-          url: friends/
-        - name: 资源
-          icon: fal fa-download
-          rows:
-            - name: 网盘
-              icon: fad fa-cloud
-              url: https://pan.lino-kakeri.live/
-        - name: hr
-        - name: 捐助下吧！
-          url: donate/
-          rows:
-            - name: 感谢！！(*≧ω≦)
+    - name: 友链
+      icon: fal fa-link
+      url: friends/
+#    - name: 更多
+#      icon: fad fa-comment-dots
+#      rows:
+#        - name: 友链
+#          icon: fal fa-link
+#          url: friends/
+#        - name: 资源
+#          icon: fal fa-download
+#          rows:
+#            - name: 网盘
+#              icon: fad fa-cloud
+#              url: https://pan.lino-kakeri.live/
+#        - name: hr
+#        - name: 捐助下吧！
+#          url: donate/
+#          rows:
+#            - name: 感谢！！(*≧ω≦)
   search: 搜索...   # Search bar placeholder
 
 
